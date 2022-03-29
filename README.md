@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Lista de Tareas
+Dentro de este repositorio, se encuentra una aplicación web realizada utilizando React.
+La página permite crear tareas, mostrarlas por pantalla, y también permite Editarlas y Borrarlas
+(se encuentra aún en desarrollo, pero voy subiendo los progresos :) )
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
